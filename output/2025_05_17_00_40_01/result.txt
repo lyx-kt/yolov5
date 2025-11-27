@@ -1,0 +1,2 @@
+'序号', '图片名称', '录入时间', '识别结果', '目标数目', '用时', '保存路径'
+1, 'D:/1/data/yolo/train/images/train/ridderzuring_0145_jpg.rf.945a904976845dd4d0d19ebeca54be43.jpg', '2025-05-17 00:40:24', [], 0, '0.25s', 'D:\\1\\code24_yolov5\\output\\2025_05_17_00_40_01\\img_result\\ridderzuring_0145_jpg.rf.945a904976845dd4d0d19ebeca54be43.jpg'
